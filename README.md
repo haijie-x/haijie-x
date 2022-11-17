@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**haihaixhj/haihaixhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hai.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About:
+  - 🎓 Shanghai Ocean University
+  - ❤️ Basketball,Workout,FE
+
+#### Working Experience 
+  - 🤖 2022.3-2022.11: FE Intern in Xhs
+
+### Skills
+
+![](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/-Webpack-2b3a42?style=flat-square&logo=WEBPACK&logoColor=white)
+![](https://img.shields.io/badge/-Vite-646cff?style=flat-square&logo=vite&logoColor=white)
