@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-I'm Hai.
-
 
 ### About:
   - 🎓 Shanghai Ocean University
   - ❤️ Basketball,Workout,FE
 
-#### Working Experience 
+### Working Experience: 
   - 🤖 2022.3-2022.11: FE Intern in Xhs
 
-### Skills
+### Skills:
 
 ![](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
