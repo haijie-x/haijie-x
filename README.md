@@ -1,4 +1,6 @@
-# Hi there 👋 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=haijie-x)
+### Hi there 👋
+
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=haijie-x)
 
 ### About:
 
